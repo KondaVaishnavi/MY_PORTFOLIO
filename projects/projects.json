@@ -8,6 +8,15 @@
     }
   },
   {
+    "name": "Brick Breaker Game",
+    "desc": "It’s a GUI-based project used with the swing library to organize all the elements that work under the Brick Breaker game..",
+    
+    "links": {
+      
+      "code": "#"
+    }
+  },
+  {
     "name": "Report on database of a delivery app",
     "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
     
