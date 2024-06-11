@@ -1,0 +1,27 @@
+[
+  {
+    "name": "CHOOSE YOUR CUSINE",
+    "desc": "Restaurant website built using Html and CSS",
+    "links": {
+      "view":"https://kondavaishnavi.github.io/Choose-your-Cusines/",
+      "code": " https://github.com/KondaVaishnavi/Choose-your-Cusines"
+    }
+  },
+  {
+    "name": "Report on database of a delivery app",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    
+    "links": {
+      
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
